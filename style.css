@@ -1,0 +1,15 @@
+.bg-mod{
+    background-color: #fceae8;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgrey;
+
+}
+.pic{
+   width: 100%;
+}
+#subscribe{
+    height: 300px;
+}
